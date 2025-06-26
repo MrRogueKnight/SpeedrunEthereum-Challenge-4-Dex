@@ -10,7 +10,9 @@ A fully-functional Decentralized Exchange (DEX) for swapping ETH and ERC20 token
 ## 🌐 Live Demo
 
 🚀 **Deployed Frontend**: [https://challenge-4-dex-khaki.vercel.app](https://challenge-4-dex-khaki.vercel.app)
+
 🔍 **Verified Contract on Sepolia**: [DEX on Etherscan](https://sepolia.etherscan.io/address/0x0B41D2aB33cdcbae843c8c0635139147A316639d)
+
 📦 **GitHub Repo**: [github.com/MrRogueKnight/SpeedrunEthereum-Challenge-4-Dex](https://github.com/MrRogueKnight/SpeedrunEthereum-Challenge-4-Dex)
 
 ---
