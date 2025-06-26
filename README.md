@@ -1,6 +1,16 @@
 
 ---
 
+### 🏅 Builder Profile
+
+> 🧠 Built with ❤️ by
+> [![SpeedRunEthereum Builder Badge](https://img.shields.io/badge/SpeedRunEthereum-BUILDER-blueviolet?logo=ethereum\&style=for-the-badge)](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
+
+🔗 **View My Builder Profile**:
+👉 [speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
+
+---
+
 # 🪙 Minimum Viable Exchange – Challenge 4 (SpeedRunEthereum)
 
 A fully-functional Decentralized Exchange (DEX) for swapping ETH and ERC20 tokens (\$BAL), adding/removing liquidity, and viewing on-chain events — built as part of the [SpeedRunEthereum Challenge 4](https://speedrunethereum.com/challenge/mvexchange).
